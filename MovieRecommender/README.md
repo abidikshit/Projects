@@ -1,4 +1,4 @@
-**Movie Recommendation System**
+## Movie Recommendation System
 
 This code utilizes the lightfm recommender system library to build and train a hybrid algorithm that combines content-based and collaborative filtering approaches. It employs the WARP (Weighted Approximate-Rank Pairwise) loss function on the Movielens dataset, which comprises movies and user ratings from a diverse user base of over 1700 individuals. After the model is trained, the script generates and outputs movie recommendations for selected users from the dataset to the terminal.
 
