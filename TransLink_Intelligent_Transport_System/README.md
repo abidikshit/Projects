@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" height="100" src="/TransLink_Intelligent_Transport_System/img/TransLink_(Vancouver)_Logo.png">
+  <img width="300" height="150" src="/TransLink_Intelligent_Transport_System/img/TransLink_(Vancouver)_Logo.png">
 </p>
 
 Acknowledgments
@@ -16,7 +16,7 @@ About The Competition
 Won 1st prize among 12 teams	
 
 <p align="center">
-  <img width="600" height="300" src="/TransLink_Intelligent_Transport_System/img/DSC02615.jpg">
+  <img width="600" height="400" src="/TransLink_Intelligent_Transport_System/img/DSC02615.jpg">
 </p>
                            
 *	Project Leadership: As a technical team member in a diverse group of four (UBC, SFU, NEU), presented "Transforming TransLink for A Future of Smart Transportation". Successfully resolved bus delays and enhanced customer satisfaction, contributing to congestion solutions. 
