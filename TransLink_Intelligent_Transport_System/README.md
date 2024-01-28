@@ -12,7 +12,7 @@ This project was made possible thanks to the efforts of our talented team member
 
 About The Competition
 ---------------------
-### TransLink, Deloitte ThinkTECH Hackathon 2023
+### [TransLink, Deloitte ThinkTECH Hackathon 2023](TransLink_Intelligent_Transport_System/Team10_ThinkTECH2023_Final.pdf)
 Won 1st prize among 12 teams	
 
 <p align="center">
