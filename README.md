@@ -12,5 +12,5 @@
 [LICENSE](LICENSE)
 
 <p align="center">
-  <img width="100" height="100" src="/img/ai.gif">
+  <img width="300" height="300" src="/img/ai.gif">
 </p>
