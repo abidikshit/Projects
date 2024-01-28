@@ -2,21 +2,30 @@
   <img width="300" height="100" src="/TransLink_Intelligent_Transport_System/img/TransLink_(Vancouver)_Logo.png">
 </p>
 
+Acknowledgments
+---------------
+
+This project was made possible thanks to the efforts of our talented team members and contributors. Special thanks go to:
+
+* Choe Bui and Jiayi Tao for inputs on functional side.
+* Abhilash Dkshit and Daksh Arora for implementation on Technical side.
 
 About The Competition
 ---------------------
-<p align="center">
-  <img width="300" height="300" src="/TransLink_Intelligent_Transport_System/img/DSC02615.jpg">
-</p>
+### TransLink, Deloitte ThinkTECH Hackathon
+Won 1st prize among 12 teams	
 
-TransLink, Deloitte ThinkTECH Hackathon- Won 1st prize among 12 teams		                           
-•	Project Leadership: As a technical team member in a diverse group of four (UBC, SFU, NEU), presented "Transforming TransLink for A Future of Smart Transportation". Successfully resolved bus delays and enhanced customer satisfaction, contributing to congestion solutions. 
-•	Strategic Impact: Addressed the problem of transit delays which is affecting 63% of journeys; Implemented Traffic Signal Priority (TSP) system to reduce costs and improve efficiency.
-•	Innovative Solutions: Utilized TransLink API to collect data from buses' GPS and Radar for TSP implementation; Integrated TSP algorithm to prioritize TransLink Buses using V2X Technology.
-•	Simulation and Prototyping: Developed a prototype with a clear architecture framework for TSP system data flow; Conducted simulations using SUMO to analyze real-world scenarios and validate the solution.
-•	Implementation and Problem Resolution: Showcased 5-year roadmap with quarterly milestones for TSP system deployment; Addressed challenges such as lack of buy-ins and inaccurate real-time data.
-•	Results and Impact Analysis: Projected decreased yearly operational expenses and time-related penalties, enhancing efficiency and long-term customer satisfaction.
-•	Presentation: Created thorough documentation, encompassing an alternatives matrix.
+<p align="center">
+  <img width="600" height="300" src="/TransLink_Intelligent_Transport_System/img/DSC02615.jpg">
+</p>
+                           
+*	Project Leadership: As a technical team member in a diverse group of four (UBC, SFU, NEU), presented "Transforming TransLink for A Future of Smart Transportation". Successfully resolved bus delays and enhanced customer satisfaction, contributing to congestion solutions. 
+*	Strategic Impact: Addressed the problem of transit delays which is affecting 63% of journeys; Implemented Traffic Signal Priority (TSP) system to reduce costs and improve efficiency.
+* Innovative Solutions: Utilized TransLink API to collect data from buses' GPS and Radar for TSP implementation; Integrated TSP algorithm to prioritize TransLink Buses using V2X Technology.
+*	Simulation and Prototyping: Developed a prototype with a clear architecture framework for TSP system data flow; Conducted simulations using SUMO to analyze real-world scenarios and validate the solution.
+*	Implementation and Problem Resolution: Showcased 5-year roadmap with quarterly milestones for TSP system deployment; Addressed challenges such as lack of buy-ins and inaccurate real-time data.
+*	Results and Impact Analysis: Projected decreased yearly operational expenses and time-related penalties, enhancing efficiency and long-term customer satisfaction.
+*	Presentation: Created thorough documentation, encompassing an alternatives matrix.
 
 Smart Traffic Management System Using V2X Technology
 ====================================================
@@ -55,16 +64,6 @@ The Smart Traffic Management System has numerous benefits for cities and their r
 * Increased safety
 * Better air quality
 * More efficient use of roads and infrastructure
-
-
-Acknowledgments
----------------
-
-This project was made possible thanks to the efforts of our talented team members and contributors. Special thanks go to:
-
-* Choe Bui and Jiayi Tao for inputs on functional side.
-* Abhilash Dkshit and Daksh Arora for implementation on Technical side.
-
 
 ## License
 
