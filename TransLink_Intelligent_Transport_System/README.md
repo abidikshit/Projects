@@ -8,7 +8,7 @@ Acknowledgments
 This project was made possible thanks to the efforts of our talented team members and contributors. Special thanks go to:
 
 * Choe Bui and Jiayi Tao for inputs on functional side.
-* Abhilash Dkshit and Daksh Arora for implementation on Technical side.
+* Abhilash Dikshit and Daksh Arora for implementation on Technical side.
 
 About The Competition
 ---------------------
