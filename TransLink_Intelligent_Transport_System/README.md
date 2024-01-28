@@ -1,12 +1,12 @@
 <p align="center">
-  <img width="300" height="100" src="TransLink_Intelligent_Transport_System/img/TransLink_(Vancouver)_Logo.png">
+  <img width="300" height="100" src="/TransLink_Intelligent_Transport_System/img/TransLink_(Vancouver)_Logo.png">
 </p>
 
 
 About The Competition
 ---------------------
 <p align="center">
-  <img width="300" height="300" src="TransLink_Intelligent_Transport_System/img/DSC02615.jpg">
+  <img width="300" height="300" src="/TransLink_Intelligent_Transport_System/img/DSC02615.jpg">
 </p>
 
 TransLink, Deloitte ThinkTECH Hackathon- Won 1st prize among 12 teams		                           
@@ -71,5 +71,5 @@ This project was made possible thanks to the efforts of our talented team member
 [LICENSE](LICENSE)
 
 <p align="center">
-  <img width="500" height="800" src="TransLink_Intelligent_Transport_System/img/bus.jpg">
+  <img width="800" height="500" src="/TransLink_Intelligent_Transport_System/img/bus.jpg">
 </p>
