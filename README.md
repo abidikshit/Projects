@@ -4,7 +4,7 @@
 
 ## Project Details
 
-- [TransLink Deloitte Hackathon 2023 Winner](TransLink_Intelligent_Transport_System/Team10_ThinkTECH2023_Final.pdf)
+- [TransLink Deloitte Hackathon 2023 Winner](TransLink_Intelligent_Transport_System)
 - [Movie Recommender System](MovieRecommender)
 
 ## License
