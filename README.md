@@ -4,7 +4,7 @@
 
 ## Project Details
 
-- [TransLink Hackathon 2023 Winner-V2X Technology for Intelligent Transport System](TransLink/TransLink_Intelligent_Transport_System/Team10_ThinkTECH2023_Final.pdf)
+- [TransLink Deloitte Hackathon 2023 Winner](TransLink_Intelligent_Transport_System/Team10_ThinkTECH2023_Final.pdf)
 - [Movie Recommender System](MovieRecommender)
 
 ## License
